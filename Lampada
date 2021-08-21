@@ -1,0 +1,20 @@
+algoritmo "lamapada"
+var
+   Lampada, interruptor, soquete: logico
+inicio
+      Leia (Lampada)
+      Leia (Interruptor)
+      Leia (Soquete)
+      Escreva ("Aperte o interruptor")
+      Se Lampada=1 Então
+                   Escreva "Funcionamento normal"
+      Senão
+           Se lampada=0 Então
+                        Escreva "Troquei a lampada"
+      Senão se soquete = 0 Então
+        Escreva "Troque o soquete"
+      Senão se interruptor = 0 então
+            Escreva "Troque o Interruptor"
+           Senão
+            Escreva "Troque o Interruptor"
+fimalgoritmo
