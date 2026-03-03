@@ -1,10 +1,8 @@
-## Oiii eu sou o Mateus Vaz, Analista de Dados!
+## Oi eu sou o Mateus Vaz, Analista de Dados!
 
 <div style="display: inline_block"><br>
-  
   <img align="center" alt="mvaz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mvaz-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/SQL/SQL-original.svg">
- 
+  
 </div>
   
   ##
