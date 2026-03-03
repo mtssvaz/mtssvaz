@@ -5,7 +5,13 @@ Profissional de análise de suporte e dados, formado em Tecnologia da Informaç�
 <div style="display: inline_block"><br>
   <img align="center" alt="mvaz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mvaz-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"">
+  <img align="center" alt="mvaz-MATPLOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg">
+    <img align="center" alt="mvaz-MATPLOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+
   
+      
+          
+          
 </div>
   
   ##
