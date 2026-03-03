@@ -1,5 +1,7 @@
 ## Oi eu sou o Mateus Vaz, Analista de Dados!
 
+Profissional de análise de suporte e dados, formado em Tecnologia da Informação e Logística. Possuo certificações Alura Google e Oracle. Atualmente atuo como Analista de Suporte na 11 Consultoria em TI.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="mvaz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
